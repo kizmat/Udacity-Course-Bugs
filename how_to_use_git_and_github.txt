@@ -1,0 +1,8 @@
+1. Quiz: Making a Pull Request 
+https://classroom.udacity.com/courses/ud775/lessons/3105028581/concepts/33282286200923
+- This quiz cannot be answered correctly. Assume each row is #1-6, and collums are a,b,c,d
+The answer 1a, 2b, 3c, 4c, 5d,6d results in the following message:
+
+"Your answer for git pull is close, but there's a subtle mistake. Since you have the master branch checked out, updating that will also update your working directory and staging area."
+
+The answer video illustrates the correct answer to be: 1a, 2b, 3c, 4c, 5d, 6d
